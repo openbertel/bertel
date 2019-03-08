@@ -1,9 +1,0 @@
-Welche Daten benötigen wir in der Datenbank?
-
-
-Mitglieder:
-Vorname, Nachname, Adresse (für zb. papier serienbriefe), IBAN, Name des Kontohalters(kann möglicherweise vom eigentlich Namen abweichen), Organisationen (Vereine könnten Vereinsmitglieder sein),
-
-Organisation:
-IBAN, Rechtsform, 
-
